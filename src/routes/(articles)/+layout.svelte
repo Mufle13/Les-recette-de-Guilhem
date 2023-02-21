@@ -1,5 +1,4 @@
 <script>
-    import { base } from '$app/paths';
     /** @type {import('./$types').LayoutData} */
     export let data;
 </script>

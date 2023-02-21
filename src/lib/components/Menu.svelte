@@ -1,8 +1,8 @@
 <script>
-import { base } from '$app/paths';
+
 </script>
 <div class="flex justify-between items-center border bg-blue-100 py-11 px-5">
-    <span class="text-2xl"><a href="{base}/">Les recettes de Guilhem</a></span>
+    <span class="text-2xl"><a href="/">Les recettes de Guilhem</a></span>
     <div class="flex gap-7">
         <span>Recettes</span>
         <span>A propos</span>
