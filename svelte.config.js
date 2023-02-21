@@ -4,12 +4,15 @@ import {mdsvex} from 'mdsvex';
 /** @type {import('@sveltejs/kit').Config} */
 const extensions = ['.svelte', '.md']
 
-const dev = process.argv.includes('dev');
+const dev = process.env.NODE_ENV === 'development';
 
 const config = {
 	extensions: extensions,
 	kit: {
 		adapter: adapter(),
+		paths: {
+			base: dev ? "" : "/Les-recette-de-Guilhem"
+		}
 	},
 	preprocess: [
 		vitePreprocess(),
