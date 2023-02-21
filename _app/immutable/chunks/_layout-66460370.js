@@ -1,0 +1,1 @@
+import{i as a}from"./utils-65c87334.js";import{b as n}from"./paths-dcd93c1d.js";async function l({url:t}){const{pathname:e}=t,r=e.replace(`${n}/`,""),o=a().find(s=>s.slug===r);return console.log(o.coverimage),{post:o}}const p=Object.freeze(Object.defineProperty({__proto__:null,load:l},Symbol.toStringTag,{value:"Module"}));export{p as _,l};

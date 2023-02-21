@@ -1,1 +1,0 @@
-import{i as s}from"./utils-65c87334.js";async function r({url:o}){const{pathname:t}=o,e=t.replace("/","");return{post:s().find(n=>n.slug===e)}}const c=Object.freeze(Object.defineProperty({__proto__:null,load:r},Symbol.toStringTag,{value:"Module"}));export{c as _,r as l};
