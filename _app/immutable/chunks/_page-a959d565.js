@@ -1,1 +1,0 @@
-import{i as o}from"./utils-efd32833.js";async function t(){return{posts:o()}}const s=Object.freeze(Object.defineProperty({__proto__:null,load:t},Symbol.toStringTag,{value:"Module"}));export{s as _,t as l};
