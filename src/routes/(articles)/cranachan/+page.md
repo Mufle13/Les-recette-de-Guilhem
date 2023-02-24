@@ -56,7 +56,7 @@ tempsPreparation: 30
 
 1. Placez le fouet de votre robot/batteur électrique (votre fouet manuel ou même votre fourchette si vous voulez vous faire un petit défi) et la crème liquide au congélateur. Cela permettra une meilleur prise de la crème fouettée. 
 
-2. Ecrasez/mixer les framboises (gardez-en quelques unes pour la finition) avec 25 grammes de sucre en poudre, réservez au frais.
+2. Ecrasez/mixez les framboises (gardez-en quelques-unes pour la finition) avec 25 grammes de sucre en poudre, réservez au frais.
 
 3. Faites torréfier les flocons d'avoine dans une poelle (sans matière grasse) pendant quelques minutes afin d'en libérer des arômes de noisette. Reservez.
 
